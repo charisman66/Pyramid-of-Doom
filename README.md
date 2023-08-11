@@ -23,7 +23,7 @@ The variables below are stored in a list, called "initial_variables". The reason
 ![](C:\Users\AChar\Downloads\Screenshot 2022-06-09 064618.png)
 
 ## Support
-caraw1@ocdsb.ca
+acharisman66@gmail.com
 
 ## Sources
 ### Learning Concepts
